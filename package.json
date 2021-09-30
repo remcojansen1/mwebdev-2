@@ -13,7 +13,9 @@
   "author": "Remco",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-cat": "^0.3.3",
+    "gulp-minify-html": "^1.0.6"
   },
   "dependencies": {
     "jquery": "^3.6.0"
