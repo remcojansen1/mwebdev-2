@@ -1,0 +1,21 @@
+{
+  "name": "mwebdev-2",
+  "version": "0.1.0",
+  "description": "npm test site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "gulp"
+  ],
+  "author": "Remco",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
